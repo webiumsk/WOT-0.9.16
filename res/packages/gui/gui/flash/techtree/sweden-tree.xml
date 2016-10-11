@@ -1,0 +1,14 @@
+<sweden-tree.xml>
+  <settings>normal</settings>
+  <grid>grid_1<rows>	10	</rows><columns>	10	</columns></grid>
+  <nodes>
+    <S15_L_60>
+      <row>	7	</row>
+      <column>	2	</column>
+    </S15_L_60>
+    <S01_Strv_74_A2>
+      <row>	7	</row>
+      <column>	6	</column>
+    </S01_Strv_74_A2>
+  </nodes>
+</sweden-tree.xml>
